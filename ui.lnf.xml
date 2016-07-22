@@ -1,0 +1,15 @@
+<application>
+  <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="CYCLE_SCROLLING" value="false" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="HIDE_NAVIGATION_ON_FOCUS_LOSS" value="false" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+  </component>
+</application>
