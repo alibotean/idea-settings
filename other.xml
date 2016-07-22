@@ -1,0 +1,28 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+  </component>
+</application>

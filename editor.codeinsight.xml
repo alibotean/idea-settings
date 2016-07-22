@@ -1,0 +1,13 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="collapseHtmlStyleAttribute" value="false" />
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+  </component>
+</application>
